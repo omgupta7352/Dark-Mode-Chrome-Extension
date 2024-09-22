@@ -1,7 +1,7 @@
 # Dark Mode Chrome Extension
 
-![WEATHER APP](ime1.png)
-![](ime2.png)
+![Dark mode](Light_mode.png)
+![](Dark_mode.png)
 
 The Dark Mode Chrome Extension allows users to toggle dark mode on any webpage they visit. It inverts the colors of the webpage, making it easier on the eyes, especially during nighttime browsing.
 
